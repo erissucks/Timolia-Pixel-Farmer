@@ -1,6 +1,7 @@
 {
   "name": "timoliapixelfarmer",
   "version": "1.0.0",
+  "author": "not Niklaas"
   "dependencies": {
     "request": "^2.88.0"
   }
